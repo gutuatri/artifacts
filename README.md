@@ -15,7 +15,7 @@ Runs an honesty audit that flags any tool or skill not in your actual profile
 Scores the resume with a detailed scorecard and fix buttons
 Downloads as .docx
 
-File: resume-creation-hub.html
+File: gutuatri_hub_v2.html
 
 How to use it
 
@@ -30,6 +30,9 @@ That's it. No installation. No accounts. No API keys.
 What it costs
 Nothing extra if you have a Claude.ai account. The artifact makes API calls that are absorbed by your subscription. Free tier accounts have message limits — if you hit them, wait for the limit to reset or upgrade to Claude Pro.
 
+Your data stays in your browser
+Nothing you upload or enter is stored on any server. Your resume, profile, and job postings live in your browser's local storage and are never sent anywhere except directly to Anthropic's API to power the AI features — the same API your Claude.ai subscription already uses. Clearing your browser data or using incognito mode will erase your saved profile.
+
 Who built this
 Gutuatri is built by Renee House. The platform is named after the Gaulish Druidic class — the gutuatri — who spoke to the gods on behalf of ordinary people. That's exactly what this does.
 The platform lives at gutuatri.ai.
@@ -40,11 +43,11 @@ You can also use the built-in Feedback tab inside the tool.
 
 Coming next
 
-Lugus — job application tracker
+Job application tracker
 Interview prep module
 Cold outreach builder
 Setup wizard for first-time users
 
 
 License
-MIT. Free to use, fork, and build on. Attribution appreciated but not required.Clause artificats to utilize
+MIT. Free to use, fork, and build on. Attribution appreciated but not required.
